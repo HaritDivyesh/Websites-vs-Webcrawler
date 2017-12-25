@@ -1,0 +1,102 @@
+
+
+====NORMAL USER AGENT====:
+
+TOTAL FAILED - 25
+
+403 Forbidden:
+1. ebay.de, fiverr.com, hicpm5.com, application-77my.com, udemy.com, 
+2. adexchangeperformance.com, buzzadnetwork.com, hitcpm.com, fwbntw.com, lie2anyone.com [Always forbidden, ignore], media.tumblr.com [Access denied all the time]
+
+500: siteadvisor.com
+
+503: Kissanime.ru, hdfcbank.com
+
+Max Retries: ytimg.com, banvenez.com, wiley.com, livejournal.com, bp.blogspot.com, twimg.com, cloudfront.net, googleusercontent.com, uidai.gov.in, alicdn.com 
+
+Timeout: bestbuy.com, www.cnblogs.com
+
+
+====EMPTY USER AGENT====:
+
+TOTAL FAILED - 43
+
+403: 4chan.org, adexchangeperformance.com, zipnoticias.com, rarbg.to, www.huanqiu.com, buzzadnetwork.com, hitcpm.com, fiverr.com, fwbntw.com, media.tumblr.com, lie2anyone.com, deviantart.com, onoticioso.com, hicpm5.com, udemy.com, verge
+
+Max Retries: aliexpress.com, googleusercontent.com, cloudfront.net, us.blastingnews.com, twimg.com, bp.blogspot.com, alicdn.com, youdao.com, theverge.com, wiley.com, banvenez.com, ytimg.com, uidai.gov.in
+
+Timeout: bestbuy.com, so.com, 
+
+400: soundcloud.com, 
+
+404: independent.co.uk
+
+429: speedtest.net
+
+401: Alibaba.com, pornhub.com, 
+
+Connection aborted without response: shopify.com
+
+463: roblox.com
+
+503: kissanime.ru, hdfcbank.com, Gyazo, 
+
+408: application-77my.com
+
+520: Cambridge.org
+
+
+====BROWSER-LIKE USER AGENT====:
+
+TOTAL FAILED - 21
+
+403: adexchangeperformance.com, buzzadnetwork.com, hitcpm.com, fwbntw.com, media.tumblr.com, lie2anyone.com, hicpm5.com, 
+
+408: application-77my.com, hdfcbank.com 
+
+500: siteadvisor.com, 
+
+503: kissanime.ru
+
+Max retries: googleusercontent.com, cloudfront.net, twimg.com, bp.blogspot.com, alicdn.com, wiley.com, banvenez.com, ytimg.com, uidai.gov.in
+
+
+====SELENIUM BASIC====
+
+TOTAL FAILED - 91
+
+403: adexchangeperformance.com, buzzadnetwork.com, udemy.com, fiverr.com, fwbntw.com, media.tumblr.com
+
+404: csdn.net
+
+408: application-77my.com, 
+
+Max retries - NewConnectionError: qq.com, alipay.com, hao123.com, microsoftonline.com, imdb.com, espn.com, googleusercontent.com, nicovideo.jp, tianya.cn, pixnet.net, amazonaws.com, youth.cn, xinhuanet.com, thestartmagazine.com,
+				  cloudfront.net, globo.com, force.com, twimg.com, china.com.cn, bg.blogspot.com, ikea.com, kakaku.com, huffingtonpost.com, caijing.com.cn, huanqiu.com, codeonclick.com, wordreference.com, ltn.com.tw,
+				  asos.com, kompas.com, livedoor.com, varzesh3.com, ign.com, hotstar.com, reverso.net, rednet.cn, samsung.com, haber7.com, ndtv.com, livedoor.jp, dmm.co.jp, go.com, repubblica.it, elmundo.es, wiley.com,
+				  espncricinfo.com, banvenezh.com, marca.com, ytimg.com, cambridge.org, 
+
+Max retries - SSLError (CertificateError): soso.com, tribunnews.com, naver.com, onlinesbi.com, gmw.cn, dailymail.co.uk, china.com, people.com.cn, metropcs.mobi, steampowered.com, 39.net, breitbart.com, thesaurus.com, bilibili.com, 
+					   setn.com, target.com, fromdoctopdf.com, maka.im, state.gov, ups.com, telegraph.co.uk, uidai.gov.in, naver.jp, seasonvar.ru, fedex.com, easypdfcombine.com, rediff.com, primosearch.com, 						   lie2anyone.com, epochtimes.com
+
+Max retries -  SSLError (SSLError: Bad Handshake): hitcpm.com
+
+500: taboola.com, 
+
+503: kissanime.ru, hdfcbank.com, 
+
+521: ntd.tv
+
+Timeout [Simply, message: timeout and then web driver info and headless chrome]: rambler.ru 
+
+Connection aborted (Remote and closed connection without response): alicdn.com 
+
+
+====SELENIUM WITH SLEEP BETWEEN REQUESTS====
+
+SAME RESULT!
+
+
+====UNSUCCESSFUL ATTEMPTS====
+SELENIUM WITH CHINESE/RUSSIAN IPs. No response!
+
